@@ -19,6 +19,7 @@
                 <input type="password" placeholder="Password" class="txt" name="Password">
                 <input type="password" placeholder="Confirm Password" class="txt" name="Cpass">
                 <input type="submit" placeholder="Create Account" class="btn" name="btn-save">
+                <input type="submit" placeholder="Create 2" class="btn" name="btn-save">
                 <a href="#"> Already Have an Account</a>
             
             </form>  
